@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -n '5p' /0x02-shell_redirections/iacta
